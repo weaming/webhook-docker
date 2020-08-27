@@ -1,0 +1,14 @@
+[
+  {
+    "id": "test.sh",
+    "execute-command": "test.sh",
+    "command-working-directory": "/etc/webhook",
+    "include-command-output-in-response": true
+  },
+  {
+    "id": "ls",
+    "execute-command": "ls",
+    "command-working-directory": "/etc/webhook",
+    "include-command-output-in-response": true
+  }
+]
